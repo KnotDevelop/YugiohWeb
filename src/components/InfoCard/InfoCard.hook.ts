@@ -1,0 +1,3 @@
+const useInfoCard = () => { }
+
+export { useInfoCard }

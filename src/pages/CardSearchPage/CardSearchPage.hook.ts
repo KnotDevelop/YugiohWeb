@@ -1,0 +1,3 @@
+const useCardSearchPage = () => { }
+
+export { useCardSearchPage }

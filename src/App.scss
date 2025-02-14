@@ -1,0 +1,17 @@
+.m-bg{
+    &-primary{
+        background-color: #2e0f38;
+    }
+    &-primary-emphasis{
+        background-color: #1a2c54;
+    }
+    &-secondary{
+        background-color: rgb(117, 64, 157);
+    }
+    &-secondary-emphasis{
+        background-color: #b45dbb;
+    }
+    &-info{
+        background-color: #4d7b93;
+    }
+}

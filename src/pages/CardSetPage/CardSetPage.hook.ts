@@ -1,0 +1,2 @@
+const useCardSetPage = () => { }
+export { useCardSetPage }

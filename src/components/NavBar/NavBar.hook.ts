@@ -1,0 +1,3 @@
+const useNavBar = () => { }
+
+export { useNavBar }

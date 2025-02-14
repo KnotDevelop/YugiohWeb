@@ -1,0 +1,2 @@
+const useCardShow = () => { }
+export { useCardShow }
